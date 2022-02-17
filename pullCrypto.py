@@ -3,7 +3,7 @@ import coinbasepro as cbp
 import time
 import datetime
 
-cbKey = 'CQvmSsimoExfKM1x'
+cbKey = ''
 # secretKey = ""
 
 client = cbp.PublicClient()
